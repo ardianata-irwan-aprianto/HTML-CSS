@@ -1,0 +1,73 @@
+* {
+  padding: 25px;
+  margin: 25px;
+  position: relative;
+}
+
+h1 {
+  text-align: center;
+  color: darkblue;
+  border: solid red;
+  background-color: yellow;
+}
+
+.row {
+  background-color: aquamarine;
+  /* max-width: 1000px;
+  margin: auto;
+  display: flex;
+  height: 600px;
+  flex-wrap: wrap; */
+  display: flex;
+  height: 745px;
+  flex-wrap: wrap;
+  align-content: space-between;
+  justify-content: space-between;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.col {
+  width: 150px;
+  height: 150px;
+}
+
+body {
+  background-color: lightcoral;
+}
+
+.satu {
+  background-color: chartreuse;
+}
+
+.dua {
+  background-color: coral;
+}
+
+.tiga {
+  background-color: darkgoldenrod;
+}
+
+.empat {
+  background-color: darkkhaki;
+}
+
+.lima {
+  background-color: deeppink;
+}
+
+.enam {
+  background-color: forestgreen;
+}
+
+.tujuh {
+  background-color: goldenrod;
+}
+
+.delapan {
+  background-color: darkviolet;
+}
+
+.sembilan {
+  background-color: mediumpurple;
+}
